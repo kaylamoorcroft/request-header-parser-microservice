@@ -1,3 +1,7 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+API that parses and returns request header information (ip address, preferred language, software). 
+
+View the [live project]([https://url-shortener-kaylam.glitch.me/](https://request-header-parser-microservice-kaylam.glitch.me/)).
+
+This is an API project for a [freeCodeCamp Course](https://www.freecodecamp.org/certification/kaylamoorcroft/back-end-development-and-apis). A base project was provided and I only modified the following files: index.js, README.md
